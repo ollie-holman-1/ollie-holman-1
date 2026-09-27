@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+My name is Ollie.
+
+I am a full-stack web developer with experience in a range of technologies, preferably the LAMP stack.
+
+Whilst currently studying toward a degree in mathematics, I am researching into machine learning and artificial intelliengce. I intend to use my public GitHub to upload projects relating to this field.
+
 <!--
 **ollie-holman-1/ollie-holman-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
